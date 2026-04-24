@@ -1,19 +1,24 @@
 # 🤖 Agent Freelance — Apprentissage IA Agentique
 
-Série de projets construits dans le cadre de ma transition vers le freelance en IA agentique.
-Background : Software Engineering senior | Spécialisation : LangGraph · MCP · RAG
+Navigation rapide : [FR](#francais) | [EN](#english)
+
+<a id="francais"></a>
+## 🇫🇷 Version francaise
+
+Serie de projets construits dans le cadre de ma transition vers le freelance en IA agentique.  
+Background : Software Engineering senior | Specialisation : LangGraph · MCP · RAG
 
 ---
 
-## 📁 Projets
+### 📁 Projets
 
-### 1. Hello Claude — Conversation multi-tours via API
+#### 1. Hello Claude — Conversation multi-tours via API
 Premier agent conversationnel utilisant l'API Anthropic directement.
 
-**Ce que ça fait :**
-- Appel direct à l'API Claude (claude-opus-4-6)
+**Ce que ca fait :**
+- Appel direct a l'API Claude (claude-opus-4-6)
 - Gestion de l'historique de conversation (multi-tours)
-- Système de prompt configurable
+- Systeme de prompt configurable
 
 **Stack :** Python · Anthropic API · python-dotenv
 
@@ -27,14 +32,76 @@ python hellloClaude.py
 
 ---
 
-## 🛠️ Stack technique
+### 🛠️ Stack technique
 - Python 3.11+
 - Anthropic API / OpenAI API
-- LangChain (à venir)
-- LangGraph (à venir)
-- CrewAI (à venir)
+- LangChain (a venir)
+- LangGraph (a venir)
+- CrewAI (a venir)
 
 ---
 
-## 🎯 Objectif
+### 💬 Demo — Conversation multi-tours
+
+#### Captures d'ecran
+
+![Demo 1](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.05.png)
+![Demo 2](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.14.png)
+![Demo 3](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.25.png)
+![Demo 4](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.37.png)
+
+### 🎯 Objectif
 Construire une expertise freelance en IA agentique d'ici juin 2026.
+
+---
+
+<a id="english"></a>
+## 🇬🇧 English Version
+
+Project series built as part of my transition to AI agent freelancing.  
+Background: Senior Software Engineer | Focus: LangGraph · MCP · RAG
+
+---
+
+### 📁 Projects
+
+#### 1. Hello Claude — Multi-turn conversation via API
+First conversational agent using the Anthropic API directly.
+
+**What it does:**
+- Direct calls to Claude API (claude-opus-4-6)
+- Conversation history management (multi-turn)
+- Configurable prompt system
+
+**Stack:** Python · Anthropic API · python-dotenv
+
+**Run the project:**
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install anthropic python-dotenv
+python hellloClaude.py
+```
+
+---
+
+### 🛠️ Tech stack
+- Python 3.11+
+- Anthropic API / OpenAI API
+- LangChain (coming soon)
+- LangGraph (coming soon)
+- CrewAI (coming soon)
+
+---
+
+### 💬 Demo — Multi-turn conversation
+
+#### Screenshots
+
+![Demo 1](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.05.png)
+![Demo 2](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.14.png)
+![Demo 3](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.25.png)
+![Demo 4](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.37.png)
+
+### 🎯 Goal
+Build strong AI agent freelancing expertise by June 2026.
