@@ -45,10 +45,10 @@ python hellloClaude.py
 
 #### Captures d'ecran
 
-![Demo 1](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.05.png)
-![Demo 2](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.14.png)
-![Demo 3](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.25.png)
-![Demo 4](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.37.png)
+![Demo 1](assets/demo-1.png)
+![Demo 2](assets/demo-2.png)
+![Demo 3](assets/demo-3.png)
+![Demo 4](assets/demo-4.png)
 
 ### 🎯 Objectif
 Construire une expertise freelance en IA agentique d'ici juin 2026.
@@ -98,10 +98,10 @@ python hellloClaude.py
 
 #### Screenshots
 
-![Demo 1](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.05.png)
-![Demo 2](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.14.png)
-![Demo 3](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.25.png)
-![Demo 4](assets/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-04-24%20a%CC%80%2015.22.37.png)
+![Demo 1](assets/demo-1.png)
+![Demo 2](assets/demo-2.png)
+![Demo 3](assets/demo-3.png)
+![Demo 4](assets/demo-4.png)
 
 ### 🎯 Goal
 Build strong AI agent freelancing expertise by June 2026.
