@@ -30,12 +30,30 @@ pip install anthropic python-dotenv
 python hellloClaude.py
 ```
 
+#### 2. Hello LangChain — Chaine prompt → modele → parser
+Premier test avec LangChain et `ChatAnthropic` pour structurer un pipeline de generation.
+
+**Ce que ca fait :**
+- Construction d'un prompt system + user avec `ChatPromptTemplate`
+- Appel du modele Anthropic via `ChatAnthropic`
+- Parsing texte de la reponse avec `StrOutputParser`
+
+**Stack :** Python · LangChain · LangChain Anthropic · python-dotenv
+
+**Lancer le projet :**
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install langchain langchain-anthropic langchain-core python-dotenv
+python hello_langchain.py
+```
+
 ---
 
 ### 🛠️ Stack technique
 - Python 3.11+
 - Anthropic API / OpenAI API
-- LangChain (a venir)
+- LangChain
 - LangGraph (a venir)
 - CrewAI (a venir)
 
@@ -49,6 +67,14 @@ python hellloClaude.py
 ![Demo 2](assets/demo-2.png)
 ![Demo 3](assets/demo-3.png)
 ![Demo 4](assets/demo-4.png)
+
+### ✅ Resultats — Hello LangChain
+
+#### Captures d'ecran
+
+![LangChain Demo 1](assets/langchain-demo-1.png)
+![LangChain Demo 2](assets/langchain-demo-2.png)
+![LangChain Demo 3](assets/langchain-demo-3.png)
 
 ### 🎯 Objectif
 Construire une expertise freelance en IA agentique d'ici juin 2026.
@@ -83,12 +109,30 @@ pip install anthropic python-dotenv
 python hellloClaude.py
 ```
 
+#### 2. Hello LangChain — Prompt → model → parser chain
+First LangChain experiment using `ChatAnthropic` to build a structured generation pipeline.
+
+**What it does:**
+- Builds a system + user prompt with `ChatPromptTemplate`
+- Calls the Anthropic model through `ChatAnthropic`
+- Parses plain text output with `StrOutputParser`
+
+**Stack:** Python · LangChain · LangChain Anthropic · python-dotenv
+
+**Run the project:**
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install langchain langchain-anthropic langchain-core python-dotenv
+python hello_langchain.py
+```
+
 ---
 
 ### 🛠️ Tech stack
 - Python 3.11+
 - Anthropic API / OpenAI API
-- LangChain (coming soon)
+- LangChain
 - LangGraph (coming soon)
 - CrewAI (coming soon)
 
@@ -102,6 +146,14 @@ python hellloClaude.py
 ![Demo 2](assets/demo-2.png)
 ![Demo 3](assets/demo-3.png)
 ![Demo 4](assets/demo-4.png)
+
+### ✅ Results — Hello LangChain
+
+#### Screenshots
+
+![LangChain Demo 1](assets/langchain-demo-1.png)
+![LangChain Demo 2](assets/langchain-demo-2.png)
+![LangChain Demo 3](assets/langchain-demo-3.png)
 
 ### 🎯 Goal
 Build strong AI agent freelancing expertise by June 2026.
