@@ -1,0 +1,5 @@
+## FR
+Pour ce qui et de la conversation multi-tours j ai appris que comment ça fonctionne dans un schéma classique c est de stocker les messages envoyer ainsi que les réponses dans un tableau pour pouvoir donner au client du contextepour ce qui est de langchain il permet de faire de manière beaucoup plus structure et avec beaucoup d’outils ce qu on a fait précédemment en rendant le processus de codage plus facile comme un framework en faitle pipe est le flux de l’info passé a Langchain afin qu il professe l’input jusqu’à a la réponse
+
+## EN
+For multi-turn conversation, I learned that in a classic pattern you store sent messages and responses in an array so the client keeps the full context. For LangChain, it lets us do the same work in a much more structured way and with many tools, which makes coding easier, like a framework. The pipe is the information flow passed to LangChain so it can process the input step by step until the final response.
